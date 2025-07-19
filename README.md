@@ -50,11 +50,13 @@ post-discharge-monitoring/
 │ └── ...
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
+## 📦 Installation
+
+### 1. Clone the repo
+git clone https://github.com/Vanshikakohar/post-discharge-monitoring.git
+cd post-discharge-monitoring
 
 ## 🚀 Getting Started
 
@@ -70,7 +72,6 @@ Edit
 cd client
 npm install
 Backend
-bash
 Copy
 Edit
 cd ../server
@@ -85,7 +86,6 @@ MONGODB_URI=<your-mongo-db-connection>
 PORT=5000
 4. Run the Application
 Start Backend
-bash
 Copy
 Edit
 cd server
@@ -108,6 +108,8 @@ Email alerts for doctors
 
 🧑‍💻 Author
 👩‍💻 Vanshika Kohar
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
 📝 License
 This project is open-source and available under the MIT License.
